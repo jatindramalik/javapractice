@@ -1,0 +1,2 @@
+# javapractice
+practice logical question 
